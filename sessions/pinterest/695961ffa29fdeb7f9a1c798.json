@@ -1,0 +1,175 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ABCLyOGTvXr-7h_ik3TpmgBavv_NF_B1wdu3jJkZaXfKuFiZw4R9F3Q_4UIcknE9C-rkgwamu7mG7JAYq4UaKwI",
+      "domain": "www.recaptcha.net",
+      "path": "/recaptcha",
+      "expires": 1783595692.028739,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "f8aff4681508761e2b6768a82d4954f3",
+      "domain": "www.pinterest.com",
+      "path": "/",
+      "expires": 1799579673.358468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_routing_id",
+      "value": "\"1a05d3ca-e108-46ca-8acc-9912f0c127d3\"",
+      "domain": "www.pinterest.com",
+      "path": "/",
+      "expires": 1768130073.359276,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionFunnelEventLogged",
+      "value": "1",
+      "domain": "www.pinterest.com",
+      "path": "/",
+      "expires": 1768086875,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_auth",
+      "value": "1",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1799147681.217194,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pinterest_sess",
+      "value": "TWc9PSZMRUJQejVXbEVYYTlhWkhmOER4WmdnNjJ3c2VYbGZHaEg2bGtsZCtwSXJGbjF0bTNwUDdUU1ZzZHdJZ2wwc2REQlJnUGdidTlHWWFLVjBoYkRjYkdTekV3cTlVQ3Z3U3dFTjljK3J0LzVYcEhpVFN2QmRyUEJkVmVDODBVeHV0bkVLSHg2WGYxdzRScmZ0VGlIVGFWSjBKcGd0aE5ucmFhWDB4a1RQVk1DczlNWWdTV3VPaEtjUENZeEtLR1o1cFJ0WktaZjlQcWN2LzFZN3orVEN4dW5XRDZSYTlGTy9ic3Fxb28yRTJ0SGlIallRckRqbVRMeGRQME5wRXdvUTBTc1pscm9OSEk1WXdGTVBpWVpXR0lleUdNT0JmNEd1bDEwd011RTVzSWxyVEZ4VWZlRE5qQ2puUWd5bTBPTncyVzJVajlHbDBDWXNWU2VTNEtudm1vWkpNdUErUC8rQ3YxYVhZVjJUeTVZWmh3S2VxdDRHSmRqSS9lSFZUQlh3MXNUZVFITEZhbVkzL1Arc1ZYOHRBY2NlbW9nM0hTaU9xYXlOZHVlMVlzMzc1UXppa2ttNVBTZUZzWkNoZzRSdG9UcGRZOXM0dmxQZVFjNjgxdUR5WWFFbE1BWEtLamtNdXN1L1RvTWFVL3dSTkpuYmhxbjI1K0MzTnVZN0tDLzBndGR6RWo1T29tZ1JKNFU0NEVvdXNCUGtBN3F1RnU2cWljaFJWcitWUWRKMjRrKzRZTFU4aVZCVGwxVWNOTVRUQ3IrK2Nnd0ppb1JtcGJCdmtjU3UxRkxlV1ltUDd4Z3owOFRkSUNDMHJqVnFyaURzVG1TTXN4VGxBVDNyWE81Zjd4bzlKZDJhREVaUTNZdFN2UWVwaEdlQmZBV01ESzNhaEFUUWhPS20vcWtpOGlOKy9sUW5pdENaM3RHVGZEcUQ1U214aFExNGpEdkU0WGNONzkxM1BuVmFDTENtVWV2d0Y3Nm9JU3AyeWJmZ0lPQzFKODNSajFjc29MUnVtUndrOERXZ2xzdUZuNVhvVUtWSlpEMDJOREdGOFYyTnNaQTJhcjdIbjd4NFFaeTJVRkdkMkFMTEZEMStOWk42a285N0VJR1RNWkU1Q1VBRjB4Qlg4SjA3MUYvbHBtSWFwYUtqMHphR3FIWjBkZ1M3RXVDMVpJdVk2bkZqVWl2WjZTcW4yUTlqam90RFZQNXI5dHZkZThzWnYzMCtYbm5mb3pCdTN2ZTBIRnZkYUpsYnZGamdIbXBGZ1M0RUFDOGJ2QnJaZU90cTAwcVVBNnFzOFk5QTNBL2ttWHdpSHc5eDBEVDFHQ2NDYjVhazdYNWthWHhaNEpOa2MyY2c0a09BQU1VOGdBM0FONDByTVZzKzVjYStiWnhVc2p1bWNQMVpUaHVVT3Ara3VoanM4Z1YwTVRXSXVTSkNzTURvY0xkQlZ5Ty8wdXB5eUJuTDcwSjVYM0lsVTFkOFNyaGJKZkFOd2FvT3kxR1Y2em1heUNRRUJ4RDVPbExPbWlmbjcxSGo2c1djQ0xkY0JIVTZsVU50ejJNNU1FWU1Sb01VYVR3WHc4ZzdRMmUxRFZnRkZqbU1KQkJTRmprSG9mN1NER0RZRldpVTQ0UWxVbEJXNGNJUFk0MGgvMkdla1p5NGp4eDRWMjhERk9qcnAvalBtWUEzdFhGb2pvV0lyL21jOFE5M2p1ZEpvblhTSGJYcXhPZHRYdmgvNmFHVUZ3ZkpkQWtBbWtMTGoxNm9JZ25BR2xuUWxHTW9IVWtaVVRIaXU3UElyMHV1dTcmeTJzZXF3RU8rRDFoNGluNFJuOGxaM1lRa3d3PQ==",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1799147681.217399,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-s_a",
+      "value": "NnlZdkFjcWtxbnlxYXFGcGcrSlF1K2FnSnZ4Q29oM0QzL1VwTml6U0JxNTZvcUI0eW1pYnRoYjZsdnlxOGtHYXk0WEFBSWNMbUJ1aHZ2TDhyaTRscGpLb2o0V1N3dTBpdkxDb01BRGpodU5LczNJckxVcWNkR0MrRXl5R3ZKZVdvMG9FRWt5S1lmK0oxZEloV25idG94TWFmMENQNWtoUzZ1YkkzZ1B4d2xHSWgzTm9aS21iLzllWkowUC81YUNtQ1FlNmtseUhsZjhVNEJsaG9PTS9KWUM5NXJQT0hWYWt2eHlyZmNLVHVFOCt1eHZsZEJDMGJ3Zmtwc3FkekVPTkV1SkZGU1JJTTRjejM0eXpQU1ZLVUxXUkpwbGIraDFyVEY1YThPdXNpZ0NmalZidVJRZmY2Nyt6Vi8yVEdOc2cyZHNhNEJpSzlpV3gxRUNHMks1ejI4eTdpUnk1bVM4bFpMVmhBbG5lVk9HZHRKTlRhUlBzZmZ0QjJEMXptcUlIc0FpN25oR0ZRWThiN2kxT1JFbDcwdU80bTI0SFkyT3B0YlFCZ1NFblA0eE1HOWZrb0JtWjA2RmZaM3B4enFnM05GTDYreXJiaXRmZSsxbWNPQkkzQzlBcFpacGVrYngxUXBYcStmTEt0ODdaakxUaGE5allrcXU2TTQ3bGZwN1dZUnBVWUh3TS9yb0FSZVdsZit3RGE3NnJuV1FkdG44c2tySFptcFc4ZWsyVjhtSlpjb3FnSThKYjk2UXBSUWxETGpLMG9kUm5mbUQ4dDZsV3JXYlBVZy8zMUx1b3RYbjdwQTVIQ2lXS0dvVWdnN1pRaXZ5WkNjakV4eWNtZ2YxTGpQaS9rOUlnQTN3T2FzcTJKMzloejZCZmI2T3JPV2FVYkNLTFdhaEo5TU9DRnpaQlc2YmZxK1A2K3VNVThBdllPU0xZZ2YreTVBeWVoT3A0QjdIOU43b2ozL2hrMkVvVjIzcHlYS1NuVndoRE4vemI4MnJLSXVNUXpRblFTemdmK0gzVmpaMUU3K29vZVNrbjhwYlUxdkRBMlJPSnhJeDFKcHBsakpEMzdKMjk3R0pnV0huaE94Yzc4TU5rcEVvTTVhVEtacmFuQUJNNWJsbWhtUk1JV08yZWdvVTFkQUlSYTV4N2dCM3dvN0U4YzJYVlhFOGh1Q3hpbGR3VUhuWThrZW54dGdMZVNnWi9qZDBtejZxYjhYa3ltTlgxRzh1OTBkTXpIYmZFUWRDb3BDSEprSS81cVZvRFNaOXZaZWdFV3VqVHJ2cTRianhhcHBmRnFnWWNKbFZSZmJBMXczcHE3ZmpFREZBMlc1dz0mU3QyamxldGYveTYyU0lWWkN5WVZaamljTFRJPQ==",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1799147681.217582,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_b",
+      "value": "\"AZAiHa6wnehMcb2kRYI5azI7FrgfswjnRp4e2u/sxD0gFqGjSRkzM8v591Ghw5K82ic=\"",
+      "domain": ".pinterest.com",
+      "path": "/",
+      "expires": 1802603681.217654,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "528=AUu6wz8B-IidjhvSUWQiefQlgWXyu4U-fTi-ksI6o_3gwNzicnOKLkRaeYqbv3diG-LbMxOqTlirX9WgqAQqBVKkutjoTeT71QrCT_Zx03QYXUzbDYflq_AmC2vkeEMb2sder7EafcB7B53XqWjLLaTP87oj4HL85tgSF396oTrZDinlsT9wI5v45U2iCl3mlfvvJD6I6shD0Uo",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1783854882.405544,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1768043683893,\"i_b\":\"ULKVGVKO7NzPc4P0P0TttspzaN5d80bqsIZ539C08CI\",\"i_e\":{\"enable_itp_optimization\":0}}",
+      "domain": "www.pinterest.com",
+      "path": "/",
+      "expires": 1783595683,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ir",
+      "value": "0",
+      "domain": "api.pinterest.com",
+      "path": "/",
+      "expires": 1768045485.094052,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.pinterest.com",
+      "localStorage": [
+        {
+          "name": "loginMethodLastUsed",
+          "value": "\"email\""
+        },
+        {
+          "name": "conversionUpsellTimesViewed",
+          "value": "0"
+        },
+        {
+          "name": "unauthRevisitation",
+          "value": "{\"sessionTimestamps\":[1768043675365],\"ts\":1768043682025}"
+        },
+        {
+          "name": "_epik_localstore",
+          "value": "\"{\\\"value\\\":\\\"dj0yJnU9Q1lnVk9vTWp0RmxLN3pJU3VjYWlTNW5jZFBQRnV0MjQmcD0yJm49Smc3WU92cnZ6MUd4T2xFRVBoQ2dnUSZ0PUFBQUFBR2xpTktF\\\",\\\"expiry\\\":1799579683646}\""
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ABCLyOEHzkfSNFUSFtTkGiGJ93SijtI3NeHePyFe67ZuRyHGCCh12LdRCehIve13MZ1GtkidukwUS8N15KkSYBIWbAZX-yEhWUpy18ohQ2rYawo7SdnnYplCGi5PNPhD"
+        },
+        {
+          "name": "uoiou",
+          "value": "false"
+        },
+        {
+          "name": "MULTIPLE_ACCOUNTS",
+          "value": "{\"1028509771059496481\":{\"id\":\"1028509771059496481\",\"username\":\"rafy0800\",\"email\":\"rafy0800@gmail.com\",\"fullName\":\"WebDeveloper\",\"imageMediumUrl\":\"https://s.pinimg.com/images/user/default_75.png\",\"imageLargeUrl\":\"https://s.pinimg.com/images/user/default_140.png\"}}"
+        },
+        {
+          "name": "flashtalking_d_login",
+          "value": "\"Logins#Desktop\""
+        }
+      ]
+    },
+    {
+      "origin": "https://ct.pinterest.com",
+      "localStorage": [
+        {
+          "name": "_epik_localstore",
+          "value": "{\"value\":\"dj0yJnU9Q1lnVk9vTWp0RmxLN3pJU3VjYWlTNW5jZFBQRnV0MjQmcD0yJm49Smc3WU92cnZ6MUd4T2xFRVBoQ2dnUSZ0PUFBQUFBR2xpTktF\",\"expiry\":1799579684416}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "ZXJoZXhiZndwOGF2"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAKuB_xFngjYYHlCznfpvdsnVeUwKQ_zwpHrNee0z1u5iQ_5WGsXa1Cnmq6Uis4JTueolbdA"
+        }
+      ]
+    }
+  ]
+}
